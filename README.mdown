@@ -1,0 +1,5 @@
+My Greasemonkey scripts
+=======================
+
+* Greasequery - A shim for getting jQuery into Greasemonkey scripts
+* Greasefire - A Growl notification script for Campfire (require Fluid or Yip)
